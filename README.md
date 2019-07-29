@@ -1,5 +1,7 @@
 This repository is a minimal Electron-ReactJS boilerplate. There are two targets: 1) avoid ejecting the ReactJS codes; 2) not include modules you may not need, like Redux and React Router.
 
+After checking out this repository, run ```npm install`` to install all dependencies.
+
 # Run in development mode
 
 1. Make sure ```DEV``` is ```true``` in package.json
