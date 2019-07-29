@@ -11,7 +11,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "electron": "electron .",
+    "package": "electron-packager ."
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +29,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "electron": "^5.0.8",
+    "electron-packager": "^14.0.3"
+  },
+  "main": "main.js",
+  "homepage": ".",
+  "DEV": false
 }
