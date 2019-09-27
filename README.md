@@ -19,3 +19,7 @@ After checking out this repository, run ```npm install`` to install all dependen
 1. Make sure ```DEV``` is ```false``` in package.json
 2. Run ```npm run build```
 3. Run ```npm run package```
+
+# Dev tool
+
+This template does not open the dev tool on starting. You can press Cmd+Option+I on Mac, or Ctl+Shift+I on Windows to open the dev tool.
