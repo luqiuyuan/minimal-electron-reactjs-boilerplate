@@ -1,11 +1,11 @@
 {
-  "name": "minimal-electron-reactjs-boilerplate",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0",
+    "react-scripts": "3.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,10 +31,10 @@
     ]
   },
   "devDependencies": {
-    "electron": "^5.0.8",
-    "electron-packager": "^14.0.3"
+    "electron": "^6.0.10",
+    "electron-packager": "^14.0.6"
   },
   "main": "main.js",
   "homepage": ".",
-  "DEV": false
+  "DEV": true
 }
