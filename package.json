@@ -31,7 +31,7 @@
     ]
   },
   "devDependencies": {
-    "electron": "^6.0.10",
+    "electron": "^13.6.6",
     "electron-packager": "^14.0.6"
   },
   "main": "main.js",
